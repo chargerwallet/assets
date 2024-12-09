@@ -1,1 +1,1 @@
-# chargerwallet-assets
+# ChargerWallet Assets
